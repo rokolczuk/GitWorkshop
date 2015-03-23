@@ -11,3 +11,9 @@ void someTestMethod()
 {
    Serial.print("hello");
 }
+
+void anotherMethod()
+{
+   
+    Serial.print("test");
+}
