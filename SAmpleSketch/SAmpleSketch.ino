@@ -7,8 +7,15 @@ void loop()
 {
 }
 
-void thirdMethod()
+void someTestMethod()
 {
+   Serial.print("hello");
+}
+
+void anotherMethod()
+{
+   
+    Serial.print("foobar");
 }
 
 void fourthNethod()
