@@ -21,3 +21,9 @@ void anotherMethod()
 void fourthNethod()
 {
 }
+
+void anotherMethod()
+{
+  Serial.print("goodbye");
+}
+
