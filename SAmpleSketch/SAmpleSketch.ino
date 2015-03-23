@@ -14,3 +14,9 @@ void thirdMethod()
 void fourthNethod()
 {
 }
+
+void anotherMethod()
+{
+  Serial.print("goodbye");
+}
+
