@@ -7,13 +7,6 @@ void loop()
 {
 }
 
-void someTestMethod()
+void thirdMethod()
 {
-   Serial.print("hello");
-}
-
-void anotherMethod()
-{
-   
-    Serial.print("test");
 }
